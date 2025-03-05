@@ -14,7 +14,7 @@ public class Desafio1exer1 {
         palavra.setPalavra(ler.next());
         System.out.println("O número de caracteres é: " + palavra.contarCaracteres(palavra.getPalavra()));;
         palavra.verificarImparPar(palavra.getPalavra());
-        System.out.println(""+ palavra.inverterPalavra(palavra.getPalavra()));
+        System.out.println("A palavra invertida fica: "+ palavra.inverterPalavra(palavra.getPalavra()));
     }
     
 }
