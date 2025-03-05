@@ -1,6 +1,8 @@
 # Nome do Projeto
 
-> Breve descrição do projeto. Exemplo: "Lista de exercícios em Java desenvolvida durante as aulas do curso técnico, abordando conceitos Orientação a Objetos."
+>Descrição:" Trabalhando com atributos e métodos para manipulação de textos, criando 
+Setters e Getters para o atributo. Contendo método para contar o número de caracteres da palavra,
+método para verificar se a quantidade de caracteres é par ou ímpar e um método que retorna a palavra invertida."
 
 ## 📌 Sobre o Projeto
 
@@ -68,9 +70,9 @@ public class Exemplo {
 ## 🏆 Autor
 
 👤 **Seu Nome**  
-📧 Email: seuemail@exemplo.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
-🔗 [GitHub](https://github.com/seu-usuario/)
+📧 Email: brunomodel60@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/bruno-martinho-90b8b32b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+🔗 [GitHub](https://github.com/Bruno7Martinho)
 
 ---
 
